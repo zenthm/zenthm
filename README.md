@@ -2,9 +2,9 @@
 
 # 👋 Hey there!
 
-I go by the name **Zenthm** (*a pseudonym*).
+I go by the pseudonym **Zenthm**.
 
-> A programming enthusiast and aspiring software engineer from the Philippines
+> I'm a programming enthusiast and aspiring software engineer from the Philippines
 > in the UTC+08:00 time zone. I find great joy in programming as a hobby, exploring
 > various languages and frameworks. My fascination with technology extends beyond coding;
 > I'm particularly intrigued by the intersection of software development and emerging technologies.
